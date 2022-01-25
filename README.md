@@ -42,14 +42,25 @@ Learnings:
 
 ## Screenshots
 UI:
+![datainput](https://user-images.githubusercontent.com/78531352/150919150-0c391981-877b-4bc8-a79b-1304b46abd40.PNG)
 
+![Shivam MVC](https://user-images.githubusercontent.com/78531352/150919193-3e82a9ef-b9bb-40d3-844e-e08cefa78f2f.png)
+
+![stulistt](https://user-images.githubusercontent.com/78531352/150919204-5ea2b88d-3fcf-4ba3-8124-15de1b9dccb1.PNG)
 ASP controls-
 
+![edit](https://user-images.githubusercontent.com/78531352/150919175-bdf5ab30-7c7d-4900-aff8-cff5ad727fb6.PNG)
+
+![Model1 edmx](https://user-images.githubusercontent.com/78531352/150919181-1e7a032f-be15-4e88-835e-ca217a7bc021.png)
 Validation-
+
+![emphvalid](https://user-images.githubusercontent.com/78531352/150920350-f80bd3a7-f8ea-4a6b-b1e0-3610b1e447e8.png)
+![validd](https://user-images.githubusercontent.com/78531352/150920374-46335344-f15c-4931-9b37-265b48c7cc4a.png)
+
 
 
 Database-
-
+![db](https://user-images.githubusercontent.com/78531352/150919169-aa8e5abd-da51-4ef5-8796-7a847a4b6d02.png)
 
 
 ## Authors
