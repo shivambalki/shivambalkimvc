@@ -10,9 +10,6 @@ This is a User Details web form which comes with functionalites that are used to
 - View is a user Interface , view displays the data from the model to the user.
 	
 - Controller and its actions method handles incoming browser requests, retrieves necessary model data and returns appropriate responses.
- 
-![image](https://user-images.githubusercontent.com/78531352/150920837-8b1b26fb-9011-47c3-b0be-86c198d9cd75.png)
-
 
 
 # Asp.Net Core Web app using C#
